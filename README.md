@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I'm Dhanya, an Information Science and Engineering student at AJIET, Mangalore. <br>Passionate about programming, web development, and Machine learning, I enjoy building projects and exploring new technologies. Always eager to learn and collaborate.
+<br><br>I'm Dhanya, an Infrastrucure Specialist <br>Passionate about programming,Cloud computing, web development, and Machine learning, I enjoy building projects and exploring new technologies. Always eager to learn and collaborate.
 
 
 ## 🌐 Socials:
